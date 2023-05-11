@@ -1,2 +1,2 @@
 # web development
-it is prototype code of an registtration form using html , css , javascript.
+it is prototype code of an registration form using html , css , javascript.
